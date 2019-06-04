@@ -6,7 +6,7 @@ An unsupervised clustering model will then be created, with the aim of creating 
 
 The full project is captured as part of Jupyter notebook. Upload the following files into a Jupyter notebook order to step through:
 - Capstone_Development_1.ipynb
-- sample_model_data_protected_60k.csv
+- sample_model_data_protected_60k.csv (ISSUES Uploading, select sampleMode=1)
 - sample_model_data_protected_small5k.csv
 - visuals.py
 
